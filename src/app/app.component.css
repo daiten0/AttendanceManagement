@@ -1,0 +1,9 @@
+.app{
+    min-height: 100vh;
+    position: relative;
+}
+
+.header{
+    position: absolute;
+    bottom: 0px;
+}
